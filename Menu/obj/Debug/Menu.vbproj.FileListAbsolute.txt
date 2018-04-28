@@ -1,0 +1,30 @@
+C:\Users\jr138082\Documents\Visual Basic\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\jr138082\Documents\Visual Basic\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\jr138082\Documents\Visual Basic\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\jr138082\Documents\Visual Basic\Menu\Menu\bin\Debug\Menu.xml
+C:\Users\jr138082\Documents\Visual Basic\Menu\Menu\obj\Debug\Menu.Resources.resources
+C:\Users\jr138082\Documents\Visual Basic\Menu\Menu\obj\Debug\Menu.vbproj.GenerateResource.Cache
+C:\Users\jr138082\Documents\Visual Basic\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\jr138082\Documents\Visual Basic\Menu\Menu\obj\Debug\Menu.xml
+C:\Users\jr138082\Documents\Visual Basic\Menu\Menu\obj\Debug\Menu.pdb
+C:\Users\jr138082\Documents\Visual Basic\Menu\Menu\obj\Debug\Menu.messageForm.resources
+C:\Users\jr138082\Documents\Visual Basic\Menu\Menu\obj\Debug\Menu.DungeonForm.resources
+C:\Users\jr138082\Documents\Visual Basic\Menu\Menu\obj\Debug\Menu.Welcome.resources
+C:\Users\jr138082\Documents\Visual Basic\Menu\Menu\obj\Debug\Menu.down.resources
+C:\Users\jr138082\Desktop\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\jr138082\Desktop\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\jr138082\Desktop\Menu\Menu\obj\Debug\Menu.xml
+C:\Users\jr138082\Desktop\Menu\Menu\obj\Debug\Menu.pdb
+Q:\_eDesk\Brosius\Programming\Zelda Team\Zeldsa\Menu\bin\Debug\Menu.exe.config
+Q:\_eDesk\Brosius\Programming\Zelda Team\Zeldsa\Menu\obj\Debug\Menu.exe
+Q:\_eDesk\Brosius\Programming\Zelda Team\Zeldsa\Menu\obj\Debug\Menu.xml
+Q:\_eDesk\Brosius\Programming\Zelda Team\Zeldsa\Menu\obj\Debug\Menu.pdb
+Q:\_eDesk\Brosius\Programming\Zelda Team\Zeldsa\Menu\bin\Debug\Menu.exe
+Q:\_eDesk\Brosius\Programming\Zelda Team\Zeldsa\Menu\bin\Debug\Menu.pdb
+Q:\_eDesk\Brosius\Programming\Zelda Team\Zeldsa\Menu\bin\Debug\Menu.xml
+Q:\_eDesk\Brosius\Programming\Zelda Team\Zeldsa\Menu\obj\Debug\Menu.down.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\Zeldsa\Menu\obj\Debug\Menu.DungeonForm.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\Zeldsa\Menu\obj\Debug\Menu.Welcome.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\Zeldsa\Menu\obj\Debug\Menu.Resources.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\Zeldsa\Menu\obj\Debug\Menu.messageForm.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\Zeldsa\Menu\obj\Debug\Menu.vbproj.GenerateResource.Cache
